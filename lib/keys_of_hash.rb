@@ -5,4 +5,4 @@ class Hash
 end
 end
 
-#We have a method 'key_of' using a Splat
+#We have a method 'key_of' using a Splat to capture all the arguments being passed into the hash.
